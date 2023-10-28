@@ -1,0 +1,45 @@
+body{
+    width: 100%;
+    height: auto
+    background-color:white;
+    text-align: center;
+    background-color:whitesmoke;
+    font-size: 23px;
+    position: fixed;
+    background-image: url(https://cdn.pixabay.com/photo/2017/01/24/03/53/plant-2004483_1280.jpg);
+    background-size:cover;
+}
+div{
+    margin: 0 auto;
+    width: 570px;
+    height: 400px;
+    top: 50px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom:9px;
+}
+.outer{
+    border:  solid palevioletred ;
+    position: relative;
+    background-image: url(https://cdn.pixabay.com/photo/2018/04/28/22/03/tree-3358468_640.jpg);
+    box-shadow: 10px 10px 10px grey;
+    background-size: cover
+
+    ;
+}
+blockquote{
+    padding-top: 3%;
+    text-align: center;
+}
+h4{
+    padding-top: 8%;
+    padding-left: 30%;
+}
+input{
+    width: 20%;
+    height: 7%;
+    border-radius:20%;
+}
+.inner{
+    position: fixed;
+}
